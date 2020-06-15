@@ -1,3 +1,7 @@
+Project I followed and did after finishing React Bootcamp on Scrimba. 
+https://scrimba.com/c/cbqm3SM
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
